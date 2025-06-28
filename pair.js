@@ -51,7 +51,7 @@ router.get('/', async (req, res) => {
                    
                     await Pair_Code_By_Toxic_Tech.sendMessage(Pair_Code_By_Toxic_Tech.user.id, { text: `
 ◈━━━━━━━━━━━◈
-│❒ Hello! 👋 You're now connected to Toxic-MD.
+│❒ Hello! 👋 You're now connected to Makamesco-MD.
 
 │❒ Please wait a moment while we generate your session ID. It will be sent shortly... 🙂
 ◈━━━━━━━━━━━◈
@@ -65,7 +65,7 @@ router.get('/', async (req, res) => {
                     let Toxic_MD_TEXT = `
           ◈━━━━━━━◈
       SESSION CONNECTED
-│❒ The long code above is your **Session ID**. Please copy and store it safely, as you'll need it to deploy your Toxic-MD bot! 🔐
+│❒ The long code above is your **Session ID**. Please copy and store it safely, as you'll need it to deploy your Makamesco-MD bot! 🔐
 
 
 
@@ -73,18 +73,18 @@ router.get('/', async (req, res) => {
 
 『••• Visit For Help •••』
 > Owner:
- _https://wa.me/254735342808_
+ _https://wa.me/254769995625_
  
 > WaGroup:
- _https://chat.whatsapp.com/GoXKLVJgTAAC3556FXkfFI_
+ _https://chat.whatsapp.com/CjBNEKIJq6VE2vrJLDSQ2Z_
  
 > WaChannel:
- _https://whatsapp.com/channel/0029VagJlnG6xCSU2tS1Vz19_
+ _https://whatsapp.com/channel/0029VbAEL9r5vKA7RCdnYG0S_
 
-> Instagram:
- _https://www.instagram.com/xh_clinton_
+> Boost followers:
+ _Makamescodigitalsolutions.com_
  
- > BotRepo: _https://github.com/xhclintohn/Toxic-MD_
+ > BotRepo: _https://github.com/makamesco/Makamesco-md-v_
  
 │❒ Don't forget to give a ⭐ to our repo and fork it to stay updated! :)
 ◈━━━━━━━━━━━◈`;
