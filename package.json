@@ -1,5 +1,5 @@
 {
-    "description": "Toxic-sessions",
+    "description": "Makamesco-sessions",
     "main": "./clint.js",
   "engines" : { 
     "npm" : ">=9.7.2",
@@ -8,7 +8,7 @@
     "scripts": {
     "start": "node clint.js"
   },
-  "author": "Toxic Tech",
+  "author": "Makamesco Tech",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys":"github:xhclintohn/Clint-Baileys",
