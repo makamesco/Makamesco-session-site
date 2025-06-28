@@ -51,7 +51,7 @@ router.get('/', async (req, res) => {
                    
                     await Pair_Code_By_Toxic_Tech.sendMessage(Pair_Code_By_Toxic_Tech.user.id, { text: `
 ◈━━━━━━━━━━━◈
-│❒ Hello! 👋 You're now connected to Toxic-MD.
+│❒ Hello! 👋 You're now connected to Makamesco-MD.
 
 │❒ Please wait a moment while we generate your session ID. It will be sent shortly... 🙂
 ◈━━━━━━━━━━━◈
@@ -73,18 +73,18 @@ router.get('/', async (req, res) => {
 
 『••• Visit For Help •••』
 > Owner:
- _https://wa.me/254735342808_
+ _https://wa.me/254769995625_
  
 > WaGroup:
- _https://chat.whatsapp.com/GoXKLVJgTAAC3556FXkfFI_
+ _https://chat.whatsapp.com/CjBNEKIJq6VE2vrJLDSQ2Z_
  
 > WaChannel:
- _https://whatsapp.com/channel/0029VagJlnG6xCSU2tS1Vz19_
+ _https://whatsapp.com/channel/0029VbAEL9r5vKA7RCdnYG0S_
 
-> Instagram:
- _https://www.instagram.com/xh_clinton_
+> Boost followers:
+ _Makamescodigitalsolutions.com_
  
- > BotRepo: _https://github.com/xhclintohn/Toxic-MD_
+ > BotRepo: _https://github.com/sesco001/Makamesco_md_
  
 │❒ Don't forget to give a ⭐ to our repo and fork it to stay updated! :)
 ◈━━━━━━━━━━━◈`;
@@ -96,7 +96,7 @@ router.get('/', async (req, res) => {
                     return await removeFile('./temp/' + id);
                 } else if (connection === 'close' && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
-                    Toxic_MD_PAIR_CODE();
+                    Makamesco_MD_PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -108,7 +108,7 @@ router.get('/', async (req, res) => {
         }
     }
     
-    return await Toxic_MD_PAIR_CODE();
+    return await Makamesco_MD_PAIR_CODE();
 });
 
 module.exports = router;
