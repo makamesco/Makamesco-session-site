@@ -1,0 +1,22 @@
+{
+    "name": "Makamesco-MD Pairing",
+    "description": "Makamesco-MD WA bot, Created by marcas",
+    "logo": "https://files.catbox.moe/wu6lu4.jpg",
+    "repository": "https://github.com/makamesco/Makamesco-session-site/tree/main",
+    "keywords": ["LegacyMd"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
