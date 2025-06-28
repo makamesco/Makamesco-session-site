@@ -1,8 +1,8 @@
 {
-    "name": "Makamesco-MD Pairing",
-    "description": "Makamesco-MD WA bot, Created by marcas",
-    "logo": "https://files.catbox.moe/wu6lu4.jpg",
-    "repository": "https://github.com/makamesco/Makamesco-session-site/tree/main",
+    "name": "Toxic-MD Pairing",
+    "description": "Toxic-MD WA bot, Created by xhclinton",
+    "logo": "https://i.ibb.co/3MZpcvr/2fec156e2320d733.jpg",
+    "repository": "https://github.com/xhclintohn/TOXIC-PAIR-CODE",
     "keywords": ["LegacyMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
