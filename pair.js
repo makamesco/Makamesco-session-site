@@ -22,7 +22,7 @@ router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
     
-    async function Toxic_MD_PAIR_CODE() {
+    async function Makamesco_MD_PAIR_CODE() {
         const { state, saveCreds } = await useMultiFileAuthState('./temp/' + id);
         try {
             let Pair_Code_By_Toxic_Tech = Toxic_Tech({
