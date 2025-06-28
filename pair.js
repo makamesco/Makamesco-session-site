@@ -65,7 +65,7 @@ router.get('/', async (req, res) => {
                     let Toxic_MD_TEXT = `
           ◈━━━━━━━◈
       SESSION CONNECTED
-│❒ The long code above is your **Session ID**. Please copy and store it safely, as you'll need it to deploy your Toxic-MD bot! 🔐
+│❒ The long code above is your **Session ID**. Please copy and store it safely, as you'll need it to deploy your Makamesco-MD bot! 🔐
 
 
 
@@ -84,7 +84,7 @@ router.get('/', async (req, res) => {
 > Boost followers:
  _Makamescodigitalsolutions.com_
  
- > BotRepo: _https://github.com/sesco001/Makamesco_md_
+ > BotRepo: _https://github.com/makamesco/Makamesco-md-v_
  
 │❒ Don't forget to give a ⭐ to our repo and fork it to stay updated! :)
 ◈━━━━━━━━━━━◈`;
